@@ -1,5 +1,5 @@
-# hola-mundo-launch-x
-Mi primer repositorio de Launch X
+Hola Mundo
+Mi primer repositorio
 
 
-Autor: Lenin Facio
+Autor: Len Facio
